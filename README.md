@@ -350,7 +350,7 @@ C:\Users\pc\AppData\Local\Programs\Python\Python313\python.exe -m streamlit run 
 
 
 ## V16
-Cette V16 repart de la dernière version disponible, pas de V12.1.
+
 Elle conserve les corrections récentes :
 - intégration Maroclear / CouponPayDate ;
 - export simplifié Excel + PDF ;
